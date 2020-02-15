@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourAge</string>
+    <string name="idade">Digite Sua Idade</string>
+    <string name="cliqueAqui">Clique Aqui</string>
+</resources>
